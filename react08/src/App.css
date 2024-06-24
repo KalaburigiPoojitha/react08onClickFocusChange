@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-image: url(./images/onebg4.jpeg);
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+p {
+  text-align: left;
+  font-size: 1rem;
+}
+form {
+  display: inline-block;
+  margin: 25px;
+  padding: 50px;
+}
+form label {
+  display: inline-block;
+  width: 200px;
+  padding: 20px;
+  margin: 5px;
+  text-align: left;
+}
+form button {
+  margin: 25px;
+}
+span {
+  display: inline-block;
+  width: 200px;
+}
